@@ -45,7 +45,11 @@ button {
     color: white;
     padding: 15px 32px;
     font-size: 1.2em;
-    box-shadow: 0px 0px 10px 0px palevioletred;
+    margin-left: 40PX;
+    margin-right: 40PX;
+    margin-top:5px;
+    margin-bottom:5px;
+    box-shadow: 0px 0px 5px 0px palevioletred;
     cursor: pointer;
   }
   
